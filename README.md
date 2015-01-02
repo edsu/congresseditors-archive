@@ -1,4 +1,4 @@
-This is a snapshot of the [@congresseditors](http://twitter.com/congressedits)
+This is a snapshot of the [@congresseditors](http://twitter.com/congresseditors)
 Twitter archive. It is peridocially refreshed. If you'd like an update just
 shoot ehs@pobox.com an email or open an issue here on Github.
 
